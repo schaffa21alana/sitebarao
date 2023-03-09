@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF">
+    <meta http-equiv="X-UA-Compatible" content="ie-EDGE">
+    <meta name="viewport" content-"width=device-width, initial-scale=1.0">
+    <title>Aula 04 HTML</title>
+</head>
+
+<body background="imagens/fundo.png">
+
+    <table border="2" widht="900" align="center">
+
+    <tr>
+
+        <td align="left" height="89"><img src="imagens/logo.png" alt="">
+
+        
+        </td>
+
+        <td aling="right">
+
+            
+            <a href="index.html"><img src="imagens/home.png" alt="" style="width:90px;height:90px;"></a>
+            <a href="quem-somos.html"><img src="imagens/homem.png" alt="" style="width:90px;height:90px;"></a>
+            <a href="contato.html"><img src="imagens/telefone.png" alt="" style="width:100px;height:90px;"></a>
+        
+        </td>
+
+        <tr>
+          <td colspan="2">
+            <img src="imagens/capa.png" alt="">
+          </td>
+        </tr>
+    </tr>
+
+    </table>
+
+    <tr>
+
+        <td colspan="2">
+            <i><h2>Sobre o Colégio</h2><i></i>
+
+            <p>A Colégio Estadual Barão de Antonina de Rio Negro está localizada na Avenida Francisco Xavier Silva, 606 Centro - Rio Negro - PR. Somos uma empresa séria e confiável, que oferece produtos de qualidade e excelente atendimento aos seus clientes. Venha conhecer a Colégio Estadual Barão de Antonina de Rio Negro!</p>
+
+            <i><h2>Aulas de reforço e/ou aulas extras</h2></i>
+
+        <p>Encontre aulas de reforço e/ou aulas extras para a sua escola.
+         Oi, eu sou a Colégio Estadual Barão de Antonina de Rio Negro. Oferecemos aulas de reforço e/ou aulas extras para a sua escola. Nós temos uma equipe de professores altamente qualificados e experientes que pode ajudar a melhorar o seu desempenho acadêmico. Além disso, oferecemos aulas em vários horários e dias da semana para que você possa escolher o que melhor se adequa à sua rotina. Entre em contato conosco para saber mais.</p>
+
+
+
+         <i><h2>Acompanhamento pedagógico</h2></i>
+
+       <p>Aqui na Colégio Estadual Barão de Antonina de Rio Negro, oferecemos acompanhamento pedagógico para as escolas públicas. Nosso objetivo é ajudar os alunos a serem bem-sucedidos na escola e na vida. Oferecemos acompanhamento em grupo e individual, além de atividades de reforço e de enriquecimento. Tudo isso com o objetivo de melhorar o desempenho dos alunos.</p>
+
+
+
+       <i><h2>Atividades complementares</h2></i>
+
+
+       <p>Aqui na Colégio Estadual Barão de Antonina de Rio Negro, oferecemos diversas atividades complementares para os nossos alunos, tais como: artes, música, informática, línguas estrangeiras e esportes. Tudo isso para que eles possam se desenvolver de forma integral, aprendendo também a se socializar e a trabalhar em grupo.</p>
+
+
+
+       <i><h2>Projetos especiais</h2></i>
+
+       <p>Não A Escola Pública Colégio Estadual Barão de Antonina de Rio Negro oferece educação de qualidade para todos os alunos, desde o ensino infantil até o ensino médio. Oferecemos aulas de línguas, matemática, ciências, história e muito mais. Tudo isso com professores qualificados e uma estrutura física adequada para o aprendizado.</p>
+
+
+
+       <i><h2>Aulas de línguas</h2></i>
+
+       <p>Aqui na Colégio Estadual Barão de Antonina de Rio Negro, oferecemos aulas de línguas para todas as idades. Nossos professores são altamente qualificados e preparados para ensinar os alunos de forma eficiente. Oferecemos aulas de inglês, espanhol e outras línguas.</p>
+
+
+
+</body>
